@@ -3,7 +3,7 @@ A comprehensive analytics system tracking donations, streamer growth, and user e
 Project Overview:
 The Twitch/Youtube Donation Analytics System, developed by Team WittyWallets, is a comprehensive solution designed to track, analyze, and provide insights into donation-related data for Twitch streamers and users. The system empowers streamers to understand their performance, while users can track their contributions. It leverages a well-designed database, stored procedures, functions, and triggers to enhance data management, query performance, and user engagement.
 
-# Key Features:
+# Key Features-
 
 ### Database Design:
 Structured tables (Users, Streamers, Donations, Moderation, Subscriptions) with primary key, foreign key, and not null constraints ensure data integrity.
@@ -29,7 +29,6 @@ The Twitch/Youtube Donation Analytics System showcases  Team ' WittyWallets ' ex
 
 
 # Running the Project
-
 1. Open SQL Server Management Studio.
 2. Connect to the appropriate server instance.
 3. Open a new query window.
